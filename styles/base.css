@@ -60,7 +60,7 @@ body {
     width: 42px;
     height: 42px;
     border-radius: 10px;
-    background: #FFCC00;
+    background: #;
     display: grid;
     place-items: center;
     font-weight: bold;
@@ -84,7 +84,7 @@ body {
     width: 42px;
     height: 42px;
     border-radius: 10px;
-    background: #FFCC00;
+    background: #;
     display: grid;
     place-items: center;
     font-weight: bold;
@@ -124,7 +124,7 @@ body {
     cursor: pointer;
     font-family: inherit;
     transition: transform .08s ease, opacity .12s ease;
-    background: #ffcc00;
+    background: #DC6133;
     color: #111111;
     text-align: center;
     text-decoration: none;
